@@ -7,7 +7,9 @@ The two figures show the plot of average fitness and best fitness. I choose the 
 As the increasing of generation, the performance of the mice collecting cheese is becoming better, they tend to collect more cheese and use shorter distance.
 At generation 1, the mice move slowly and hardly get the cheese.
 At generation 100, a few mouse get cheese, and they are moving faster, 
-At generation 1000, the mouse can get more cheese, and have a better collecting efficiency by moving with suitable cycles.
+At generation 1000, the mouse can get more cheese, and have a better collecting efficiency by moving with suitable cycles. 
+! [1](./Q1/1.svg)
+
 
 3
 The fitness function is the GetFitness() in source code, it  use the amount of cheese that have been collected divided by the power usage of mice, which is the distance that they have been through.
